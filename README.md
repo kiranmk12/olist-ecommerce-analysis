@@ -82,7 +82,7 @@ olist-ecommerce-analysis/
   - CTEs
 - Created a **Stored Procedure** — `GetMonthlyRevenue` for parameterized monthly reporting
 - Created a **Scalar UDF** — `fn_DeliveryStatus` to classify orders as On Time / Slightly Late / Very Late
-- Created a **View** — `vw_OrderSummary` joining all dimensions for easy querying
+- Created a **View** — `vw_OrderLogisticsSummary` joining all dimensions for easy querying
 
 ---
 
